@@ -97,8 +97,8 @@ ECommerce-Management-System/
 This project is licensed under the ⚖ MIT License.
 
 ## 🤝 Contributors
-- *Deepam Jyoti Mohanty* ([@Link](https://github.com/PHONEIX-06))
+- *Kaibalya Prasad Satpathy* ([@Link](https://github.com/kpsatpathy))
 - *Tanya Arya* ([@Link](https://github.com/TANYA2405))
 
 ## 📧 Contact
-For queries, reach out at 📩 [kaibalyaprasad3@gmail.com](mailto:kaibalyaprasad3@gmail.com).
+For queries, reach out at 📩 [kaibalyaprasad3@gmail.com](mailto:deepamjyoti12345@gmail.com).
