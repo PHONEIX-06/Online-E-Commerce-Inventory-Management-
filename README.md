@@ -101,4 +101,4 @@ This project is licensed under the ⚖ MIT License.
 - *Tanya Arya* ([@Link](https://github.com/TANYA2405))
 
 ## 📧 Contact
-For queries, reach out at 📩 [kaibalyaprasad3@gmail.com](mailto:deepamjyoti12345@gmail.com).
+For queries, reach out at 📩 [deepamjyoti12345@gmail.com](mailto:deepamjyoti12345@gmail.com).
